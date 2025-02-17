@@ -1,1 +1,0 @@
-# holiday-booking-calendar-component
